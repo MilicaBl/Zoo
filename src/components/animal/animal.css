@@ -1,0 +1,16 @@
+.animalDiv{
+    width:90%;
+    padding:2rem;
+}
+img{
+    width:500px;
+    height:400px
+}
+button{
+    margin:1rem;
+    width: 5rem;
+    height:3rem;
+    background-color: lightgrey;
+    color:red;
+    font-size: 1rem;
+}
